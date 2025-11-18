@@ -27,7 +27,7 @@ Apasionada por la tecnología aplicada al territorio y el desarrollo de solucion
 - **Prototipo de sistema de reservas para hoteles**  
 - **Dashboard y herramientas digitales para el campo**
 
-(Pronto subiré repositorios con demos y código.)
+(poco a poco subiré material de mis trabajos.)
 
 ---
 
