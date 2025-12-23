@@ -6,9 +6,9 @@ Apasionada por la tecnología aplicada al territorio y el desarrollo de solucion
 ---
 
 ## 🚀 Sobre mí
-- Técnico en **Programación y Análisis de Sistemas** (casi titulada)  
+- Técnico en **Programación y Análisis de Sistemas** (EGRESADA)  
 - Experiencia en **gestión hotelera y turística**  
-- Participación en proyectos **agroecológicos y sustentables** (Las Ñañas)  
+- Participación en proyectos **agroecológicos y sustentables** (Las Ñañas,Huertos urbanos, Huertos educativos)  
 - Interés en automatización, sistemas de información y tecnologías aplicadas al territorio
 
 ---
